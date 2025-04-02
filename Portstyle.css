@@ -1,4 +1,3 @@
-
 :root {
     --primary: #4A90E2;
     --secondary: #FF9E0D;
@@ -103,20 +102,33 @@ nav {
     color: var(--nav-hover);
 }
 
+
+
+
 .theme-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
     background: none;
     border: none;
     color: var(--nav-link);
-    font-size: 1.2rem;
+    font-size: 1rem;
     cursor: pointer;
-    transition: all 0.3s ease;
     margin-left: 20px;
 }
 
-.theme-toggle:hover {
-    color: var(--nav-hover);
-    transform: rotate(30deg);
+.theme-text {
+    font-weight: bold;
+    font-size: 0.9rem;
 }
+
+@media (max-width: 768px) {
+    .theme-text {
+        display: none;
+    }
+}
+
+
 
 .menu-toggle {
     display: none;
