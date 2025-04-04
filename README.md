@@ -2,7 +2,7 @@
 
 
 
-# 📌 **Portfolio Website – Complete Walkthrough**  
+#  **Portfolio Website – Complete Walkthrough**  
 
 ## 🌐 **About the Website**  
 This portfolio website is designed to showcase my **skills, projects, and achievements** in a professional manner. It features:  
