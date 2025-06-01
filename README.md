@@ -4,7 +4,7 @@
 
 #  **Portfolio Website – Complete Walkthrough**  
 
-## 🌐 **About the Website**  
+# **About the Website**  
 This portfolio website is designed to showcase my **skills, projects, and achievements** in a professional manner. It features:  
 ✔ A **modern, responsive UI**  
 ✔ **Dark mode support** for better readability  
@@ -16,7 +16,7 @@ The website ensures a **seamless user experience** across devices with proper st
 
 ---
 
-# 🏗 **HTML – Structuring the Website**  
+# **HTML – Structuring the Website**  
 The website is structured using **HTML5**, ensuring a clean and organized layout. Key elements include:  
 - **Header Section** – Contains the **navigation bar** with links to different sections.  
 - **Hero Section** – A brief **introduction** with a call-to-action.  
@@ -28,7 +28,7 @@ All sections are linked properly for **smooth navigation and accessibility**.
 
 ---
 
-# 🎨 **CSS – Enhancing the Look & Feel**  
+# **CSS – Enhancing the Look & Feel**  
 The website is styled using **CSS3**, ensuring a **modern and aesthetic UI**. Key styling elements:  
 
 ###  **Responsive Design**  
@@ -46,7 +46,7 @@ The website is styled using **CSS3**, ensuring a **modern and aesthetic UI**. Ke
 
 ---
 
-# 🌙 **Dark Mode – User Customization Feature**  
+#  **Dark Mode – User Customization Feature**  
 Dark mode is implemented to improve readability and user preference. Features include:  
 - A **dark mode toggle switch** to enable/disable dark mode.  
 - **Local storage integration** to remember the user’s preference.  
@@ -56,7 +56,7 @@ Dark mode enhances the **user experience** by reducing strain in low-light envir
 
 ---
 
-# ⚡ **JavaScript – Adding Functionality**  
+#  **JavaScript – Adding Functionality**  
 JavaScript is used to enhance interactivity and improve navigation. Key features include:  
 
 ###  **Dark Mode Toggle**  
@@ -73,7 +73,7 @@ JavaScript is used to enhance interactivity and improve navigation. Key features
 
 ---
 
-# 📝 **Embedded Google Forms – Data Collection Feature**  
+#  **Embedded Google Forms – Data Collection Feature**  
 A **Google Form** is embedded in the **Contact Section** to allow visitors to submit inquiries. Features include:  
 - **Direct data storage** in Google Sheets for easy access.  
 - **Seamless user experience** without redirection to another page.  
@@ -83,7 +83,7 @@ This feature ensures that **all user inquiries are stored safely** and can be ac
 
 ---
 
-# 🚀 **Final Thoughts**  
+#  **Final Thoughts**  
 This portfolio website is a **modern, interactive, and fully responsive** project built with **HTML, CSS, and JavaScript**. It provides:  
 ✔ A **clean and structured UI**  
 ✔ **Dark mode support** for enhanced experience  
